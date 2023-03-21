@@ -6,4 +6,4 @@ msg 1
 
 msg from local
 
-new comment in branch
+this is comment from local branch
