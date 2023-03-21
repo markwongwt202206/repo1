@@ -6,4 +6,4 @@ msg 1
 
 msg from local
 
-msg from account 2
+revise a line
