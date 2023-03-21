@@ -3,3 +3,7 @@
 new message from remote
 
 msg 1
+
+msg from local
+
+revise a line
